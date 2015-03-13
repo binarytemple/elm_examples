@@ -20,3 +20,14 @@ also
 http://orcaman.blogspot.co.uk/2013/08/erlang-websockets-meet-d3js.html
 
 ----
+
+Image URL example: 
+
+http://elm-lang.org/edit/examples/Elements/Opacity.elm
+
+--- 
+
+Ethos 
+
+http://meta.stackexchange.com/questions/66377/what-is-the-xy-problem
+
