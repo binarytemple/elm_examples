@@ -31,3 +31,5 @@ Ethos
 
 http://meta.stackexchange.com/questions/66377/what-is-the-xy-problem
 
+
+https://groups.google.com/forum/#!forum/elm-discuss
